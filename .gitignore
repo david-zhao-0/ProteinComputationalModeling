@@ -1,3 +1,6 @@
 *.conda
 *.vscode
 *.zip
+*.pdbqt
+structures/*
+docking_results/*
